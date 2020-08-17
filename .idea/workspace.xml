@@ -2,12 +2,8 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="1b69fc3e-e5f8-4cbe-8b80-715e1ae65be1" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/src/components/Burger/Burger.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/components/Burger/Burger.module.css" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/components/Burger/BurgerIngredient/BurgerIngredient.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/components/Burger/BurgerIngredient/BurgerIngredient.module.css" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/package.json" beforeDir="false" afterPath="$PROJECT_DIR$/package.json" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/components/Burger/Burger.js" beforeDir="false" afterPath="$PROJECT_DIR$/src/components/Burger/Burger.js" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/src/containers/BurgerBuilder/BurgerBuilder.js" beforeDir="false" afterPath="$PROJECT_DIR$/src/containers/BurgerBuilder/BurgerBuilder.js" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -53,7 +49,7 @@
       <option name="presentableId" value="Default" />
       <updated>1597680954281</updated>
       <workItem from="1597680955530" duration="499000" />
-      <workItem from="1597684739797" duration="5226000" />
+      <workItem from="1597684739797" duration="6584000" />
     </task>
     <task id="LOCAL-00001" summary="initial commit">
       <created>1597685340013</created>
@@ -76,7 +72,14 @@
       <option name="project" value="LOCAL" />
       <updated>1597691593341</updated>
     </task>
-    <option name="localTasksCounter" value="4" />
+    <task id="LOCAL-00004" summary="burger classes created">
+      <created>1597693446679</created>
+      <option name="number" value="00004" />
+      <option name="presentableId" value="LOCAL-00004" />
+      <option name="project" value="LOCAL" />
+      <updated>1597693446679</updated>
+    </task>
+    <option name="localTasksCounter" value="5" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -87,7 +90,8 @@
     <MESSAGE value="initial commit" />
     <MESSAGE value="git ignore" />
     <MESSAGE value="new set up" />
-    <option name="LAST_COMMIT_MESSAGE" value="new set up" />
+    <MESSAGE value="burger classes created" />
+    <option name="LAST_COMMIT_MESSAGE" value="burger classes created" />
   </component>
   <component name="WindowStateProjectService">
     <state x="2450" y="377" key="#File_Watchers" timestamp="1597690347500">
@@ -98,11 +102,11 @@
       <screen x="0" y="0" width="1680" height="1050" />
     </state>
     <state x="447" y="162" key="#com.intellij.refactoring.safeDelete.UnsafeUsagesDialog/0.0.1680.1050@0.0.1680.1050" timestamp="1597685680340" />
-    <state x="1833" y="0" key="CommitChangelistDialog2" timestamp="1597691593159">
+    <state x="1833" y="0" key="CommitChangelistDialog2" timestamp="1597693446534">
       <screen x="1680" y="0" width="1920" height="1080" />
     </state>
     <state x="134" y="0" key="CommitChangelistDialog2/0.0.1680.1050@0.0.1680.1050" timestamp="1597685444147" />
-    <state x="1833" y="0" key="CommitChangelistDialog2/1680.0.1920.1080/0.0.1680.1050@1680.0.1920.1080" timestamp="1597691593159" />
+    <state x="1833" y="0" key="CommitChangelistDialog2/1680.0.1920.1080/0.0.1680.1050@1680.0.1920.1080" timestamp="1597693446534" />
     <state x="2140" y="225" key="EditFileWatcherDialog" timestamp="1597690094505">
       <screen x="1680" y="0" width="1920" height="1080" />
     </state>
