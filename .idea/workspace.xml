@@ -2,14 +2,9 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="1b69fc3e-e5f8-4cbe-8b80-715e1ae65be1" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/.idea/burger-builder.iml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/inspectionProfiles/Project_Default.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/modules.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/shelf/Uncommitted_changes_before_rebase_[Default_Changelist]/shelved.patch" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/README.md" beforeDir="false" afterPath="$PROJECT_DIR$/README.md" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/components/Burger/Burger.js" beforeDir="false" afterPath="$PROJECT_DIR$/src/components/Burger/Burger.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/containers/BurgerBuilder/BurgerBuilder.js" beforeDir="false" afterPath="$PROJECT_DIR$/src/containers/BurgerBuilder/BurgerBuilder.js" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -17,15 +12,24 @@
     <option name="LAST_RESOLUTION" value="IGNORE" />
   </component>
   <component name="Git.Settings">
+    <option name="RECENT_BRANCH_BY_REPOSITORY">
+      <map>
+        <entry key="$PROJECT_DIR$" value="master" />
+      </map>
+    </option>
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
   </component>
   <component name="ProjectId" id="1gEXvC6Bxz4nwyojl6qMuxwSBUh" />
+  <component name="ProjectLevelVcsManager">
+    <ConfirmationsSetting value="2" id="Add" />
+  </component>
   <component name="ProjectViewState">
     <option name="autoscrollFromSource" value="true" />
     <option name="hideEmptyMiddlePackages" value="true" />
     <option name="showLibraryContents" value="true" />
   </component>
   <component name="PropertiesComponent">
+    <property name="ASKED_ADD_EXTERNAL_FILES" value="true" />
     <property name="ASKED_SHARE_PROJECT_CONFIGURATION_FILES" value="true" />
     <property name="RunOnceActivity.OpenProjectViewOnStart" value="true" />
     <property name="SHARE_PROJECT_CONFIGURATION_FILES" value="true" />
@@ -45,18 +49,68 @@
       <option name="presentableId" value="Default" />
       <updated>1597680954281</updated>
       <workItem from="1597680955530" duration="499000" />
-      <workItem from="1597684739797" duration="541000" />
+      <workItem from="1597684739797" duration="6584000" />
     </task>
+    <task id="LOCAL-00001" summary="initial commit">
+      <created>1597685340013</created>
+      <option name="number" value="00001" />
+      <option name="presentableId" value="LOCAL-00001" />
+      <option name="project" value="LOCAL" />
+      <updated>1597685340013</updated>
+    </task>
+    <task id="LOCAL-00002" summary="git ignore">
+      <created>1597685444307</created>
+      <option name="number" value="00002" />
+      <option name="presentableId" value="LOCAL-00002" />
+      <option name="project" value="LOCAL" />
+      <updated>1597685444307</updated>
+    </task>
+    <task id="LOCAL-00003" summary="new set up">
+      <created>1597691593341</created>
+      <option name="number" value="00003" />
+      <option name="presentableId" value="LOCAL-00003" />
+      <option name="project" value="LOCAL" />
+      <updated>1597691593341</updated>
+    </task>
+    <task id="LOCAL-00004" summary="burger classes created">
+      <created>1597693446679</created>
+      <option name="number" value="00004" />
+      <option name="presentableId" value="LOCAL-00004" />
+      <option name="project" value="LOCAL" />
+      <updated>1597693446679</updated>
+    </task>
+    <option name="localTasksCounter" value="5" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
     <option name="version" value="3" />
   </component>
+  <component name="VcsManagerConfiguration">
+    <option name="ADD_EXTERNAL_FILES_SILENTLY" value="true" />
+    <MESSAGE value="initial commit" />
+    <MESSAGE value="git ignore" />
+    <MESSAGE value="new set up" />
+    <MESSAGE value="burger classes created" />
+    <option name="LAST_COMMIT_MESSAGE" value="burger classes created" />
+  </component>
   <component name="WindowStateProjectService">
-    <state x="134" y="0" key="CommitChangelistDialog2" timestamp="1597681005727">
+    <state x="2450" y="377" key="#File_Watchers" timestamp="1597690347500">
+      <screen x="1680" y="0" width="1920" height="1080" />
+    </state>
+    <state x="2450" y="377" key="#File_Watchers/1680.0.1920.1080/0.0.1680.1050@1680.0.1920.1080" timestamp="1597690347500" />
+    <state x="447" y="162" key="#com.intellij.refactoring.safeDelete.UnsafeUsagesDialog" timestamp="1597685680340">
       <screen x="0" y="0" width="1680" height="1050" />
     </state>
-    <state x="134" y="0" key="CommitChangelistDialog2/0.0.1680.1050@0.0.1680.1050" timestamp="1597681005727" />
+    <state x="447" y="162" key="#com.intellij.refactoring.safeDelete.UnsafeUsagesDialog/0.0.1680.1050@0.0.1680.1050" timestamp="1597685680340" />
+    <state x="1833" y="0" key="CommitChangelistDialog2" timestamp="1597693446534">
+      <screen x="1680" y="0" width="1920" height="1080" />
+    </state>
+    <state x="134" y="0" key="CommitChangelistDialog2/0.0.1680.1050@0.0.1680.1050" timestamp="1597685444147" />
+    <state x="1833" y="0" key="CommitChangelistDialog2/1680.0.1920.1080/0.0.1680.1050@1680.0.1920.1080" timestamp="1597693446534" />
+    <state x="2140" y="225" key="EditFileWatcherDialog" timestamp="1597690094505">
+      <screen x="1680" y="0" width="1920" height="1080" />
+    </state>
+    <state x="2140" y="225" key="EditFileWatcherDialog/1680.0.1920.1080/0.0.1680.1050@1680.0.1920.1080" timestamp="1597690094505" />
     <state x="168" y="94" key="MergeDialog" timestamp="1597685222547">
       <screen x="0" y="0" width="1680" height="1050" />
     </state>
@@ -65,9 +119,13 @@
       <screen x="0" y="0" width="1680" height="1050" />
     </state>
     <state x="293" y="185" key="MultipleFileMergeDialog/0.0.1680.1050@0.0.1680.1050" timestamp="1597685222598" />
-    <state x="240" y="140" key="Vcs.Push.Dialog.v2" timestamp="1597685248312">
+    <state x="240" y="140" key="Vcs.Push.Dialog.v2" timestamp="1597685344328">
       <screen x="0" y="0" width="1680" height="1050" />
     </state>
-    <state x="240" y="140" key="Vcs.Push.Dialog.v2/0.0.1680.1050@0.0.1680.1050" timestamp="1597685248312" />
+    <state x="240" y="140" key="Vcs.Push.Dialog.v2/0.0.1680.1050@0.0.1680.1050" timestamp="1597685344328" />
+    <state x="393" y="165" width="894" height="720" key="find.popup" timestamp="1597685576359">
+      <screen x="0" y="0" width="1680" height="1050" />
+    </state>
+    <state x="393" y="165" width="894" height="720" key="find.popup/0.0.1680.1050@0.0.1680.1050" timestamp="1597685576359" />
   </component>
 </project>
