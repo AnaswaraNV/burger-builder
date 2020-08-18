@@ -2,12 +2,14 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="1b69fc3e-e5f8-4cbe-8b80-715e1ae65be1" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/src/components/Burger/BuildControls/BuildControl/BuildControl.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/components/Burger/BuildControls/BuildControl/BuildControl.module.css" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/components/Burger/BuildControls/BuildControls.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/components/Burger/BuildControls/BuildControls.module.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/components/Burger/OrderSummary/OrderSummary.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/components/UI/Backdrop/Backdrop.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/components/UI/Modal/Modal.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/components/UI/Modal/Modal.module.css" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/components/Burger/Burger.js" beforeDir="false" afterPath="$PROJECT_DIR$/src/components/Burger/Burger.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/components/Burger/BuildControls/BuildControl/BuildControl.js" beforeDir="false" afterPath="$PROJECT_DIR$/src/components/Burger/BuildControls/BuildControl/BuildControl.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/components/Burger/BuildControls/BuildControls.js" beforeDir="false" afterPath="$PROJECT_DIR$/src/components/Burger/BuildControls/BuildControls.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/components/Burger/BuildControls/BuildControls.module.css" beforeDir="false" afterPath="$PROJECT_DIR$/src/components/Burger/BuildControls/BuildControls.module.css" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/src/containers/BurgerBuilder/BurgerBuilder.js" beforeDir="false" afterPath="$PROJECT_DIR$/src/containers/BurgerBuilder/BurgerBuilder.js" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -53,7 +55,7 @@
       <option name="presentableId" value="Default" />
       <updated>1597680954281</updated>
       <workItem from="1597680955530" duration="499000" />
-      <workItem from="1597684739797" duration="8083000" />
+      <workItem from="1597684739797" duration="13511000" />
     </task>
     <task id="LOCAL-00001" summary="initial commit">
       <created>1597685340013</created>
@@ -90,7 +92,14 @@
       <option name="project" value="LOCAL" />
       <updated>1597694894179</updated>
     </task>
-    <option name="localTasksCounter" value="6" />
+    <task id="LOCAL-00006" summary="initial set up for dynamic ingredient handling">
+      <created>1597696425470</created>
+      <option name="number" value="00006" />
+      <option name="presentableId" value="LOCAL-00006" />
+      <option name="project" value="LOCAL" />
+      <updated>1597696425470</updated>
+    </task>
+    <option name="localTasksCounter" value="7" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -103,7 +112,8 @@
     <MESSAGE value="new set up" />
     <MESSAGE value="burger classes created" />
     <MESSAGE value="method for dynamic ingredient" />
-    <option name="LAST_COMMIT_MESSAGE" value="method for dynamic ingredient" />
+    <MESSAGE value="initial set up for dynamic ingredient handling" />
+    <option name="LAST_COMMIT_MESSAGE" value="initial set up for dynamic ingredient handling" />
   </component>
   <component name="WindowStateProjectService">
     <state x="2450" y="377" key="#File_Watchers" timestamp="1597690347500">
@@ -114,11 +124,11 @@
       <screen x="0" y="0" width="1680" height="1050" />
     </state>
     <state x="447" y="162" key="#com.intellij.refactoring.safeDelete.UnsafeUsagesDialog/0.0.1680.1050@0.0.1680.1050" timestamp="1597685680340" />
-    <state x="1833" y="0" key="CommitChangelistDialog2" timestamp="1597694894035">
+    <state x="1833" y="0" key="CommitChangelistDialog2" timestamp="1597696425309">
       <screen x="1680" y="0" width="1920" height="1080" />
     </state>
     <state x="134" y="0" key="CommitChangelistDialog2/0.0.1680.1050@0.0.1680.1050" timestamp="1597685444147" />
-    <state x="1833" y="0" key="CommitChangelistDialog2/1680.0.1920.1080/0.0.1680.1050@1680.0.1920.1080" timestamp="1597694894035" />
+    <state x="1833" y="0" key="CommitChangelistDialog2/1680.0.1920.1080/0.0.1680.1050@1680.0.1920.1080" timestamp="1597696425309" />
     <state x="2140" y="225" key="EditFileWatcherDialog" timestamp="1597690094505">
       <screen x="1680" y="0" width="1920" height="1080" />
     </state>
@@ -131,11 +141,11 @@
       <screen x="0" y="0" width="1680" height="1050" />
     </state>
     <state x="293" y="185" key="MultipleFileMergeDialog/0.0.1680.1050@0.0.1680.1050" timestamp="1597685222598" />
-    <state x="1954" y="144" key="Vcs.Push.Dialog.v2" timestamp="1597694900399">
+    <state x="1954" y="144" key="Vcs.Push.Dialog.v2" timestamp="1597696429344">
       <screen x="1680" y="0" width="1920" height="1080" />
     </state>
     <state x="240" y="140" key="Vcs.Push.Dialog.v2/0.0.1680.1050@0.0.1680.1050" timestamp="1597685344328" />
-    <state x="1954" y="144" key="Vcs.Push.Dialog.v2/1680.0.1920.1080/0.0.1680.1050@1680.0.1920.1080" timestamp="1597694900399" />
+    <state x="1954" y="144" key="Vcs.Push.Dialog.v2/1680.0.1920.1080/0.0.1680.1050@1680.0.1920.1080" timestamp="1597696429344" />
     <state x="393" y="165" width="894" height="720" key="find.popup" timestamp="1597685576359">
       <screen x="0" y="0" width="1680" height="1050" />
     </state>
